@@ -94,12 +94,25 @@
             </div>
 
             <div class="icone">
-                <i class="fas fa-th"></i>
+                <a href="#"><i class="fas fa-th"></i></a>
                 <div class="iniziale">
                     <h2>F</h2>
                 </div>
             </div>
         </div>
+
+        <nav>
+            <div class="navbar">
+                <ul>
+                    <li><a href="#">Introduzione</a></li>
+                    <li><a href="#">Norme sulla privacy</a></li>
+                    <li><a href="#">Termini di servizio</a></li>
+                    <li><a href="#">Tecnologie</a></li>
+                    <li><a href="#">Domande frequenti</a></li>
+
+                </ul>
+            </div>
+        </nav>
         
     </header>
 
