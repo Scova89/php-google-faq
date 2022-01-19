@@ -81,9 +81,21 @@
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@500&family=Roboto&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&family=Roboto&display=swap" rel="stylesheet">
 </head>
 <body>
+
+    <header>
+        <div class="header-sup">
+            <div class="logo">
+                <img src="https://loghi-famosi.com/wp-content/uploads/2020/09/Google-Logo.png" alt="logo google">
+                <h3>Privacy e termini</h3>
+            </div>
+        </div>
+        
+    </header>
+
+
     <main class="container">
     <?php
         foreach($faqs as $faq){
