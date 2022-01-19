@@ -37,6 +37,7 @@ li{
 .header-sup{
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .logo{
@@ -55,4 +56,34 @@ li{
     font-family: 'Open Sans', sans-serif;
     font-size: 25px;
     font-weight: 400;
+}
+
+.icone{
+    display: flex;
+    align-items: center;
+}
+
+.iniziale{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 35px;
+    width: 35px;
+    background-color: rgb(192, 24, 24);
+    border-radius: 50%;
+}
+
+i{
+    font-size: 20px;
+    color: #5f6368;
+    margin-right: 20px;
+}
+
+.iniziale h2{
+    
+    padding: 0;
+    line-height: 0;
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    
 }
